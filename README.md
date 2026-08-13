@@ -61,81 +61,35 @@
 <b>Finance + Analytics + Automation = Better Decisions</b>
 
 </blockquote>
+# 📊 Financial Analyst & Researcher
+`Junior Analyst @ Zold UDP Group of Companies`
 
-<ul>
+---
 
-<div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 850px; margin: 0 auto; background: #0f172a; color: #f8fafc; padding: 28px; border-radius: 20px; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);">
+### 🎓 Academic Background
+> **MBA in Finance & Business Analytics** | CGPA: `7.9`  
+> **B.Com in Commerce & Accounting** | CGPA: `7.5`
 
-  <!-- Header Section -->
-  <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #334155; padding-bottom: 20px; margin-bottom: 24px;">
-    <div>
-      <span style="background: linear-gradient(135deg, #3b82f6, #6366f1); color: white; padding: 4px 12px; border-radius: 9999px; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">Finance & Analytics</span>
-      <h2 style="margin: 8px 0 0 0; font-size: 26px; color: #ffffff; font-weight: 700;">Junior Analyst Profile</h2>
-    </div>
-    <div style="text-align: right; background: #1e293b; padding: 8px 16px; border-radius: 12px; border: 1px solid #334155;">
-      <span style="font-size: 12px; color: #94a3b8; display: block;">Current Role</span>
-      <strong style="color: #38bdf8; font-size: 14px;">Zold UDP Group</strong>
-    </div>
-  </div>
+---
 
-  <!-- Bento Grid -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
-    
-    <!-- Education Card -->
-    <div style="background: #1e293b; border-radius: 14px; padding: 20px; border: 1px solid #334155; transition: transform 0.2s;">
-      <div style="font-size: 24px; margin-bottom: 10px;">🎓</div>
-      <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #38bdf8;">Education</h3>
-      <div style="margin-bottom: 8px;">
-        <strong style="font-size: 14px; color: #e2e8f0;">MBA in Finance & Business Analytics</strong>
-        <span style="display: inline-block; background: #0284c7; color: white; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-left: 6px;">7.9 CGPA</span>
-      </div>
-      <div>
-        <span style="font-size: 13px; color: #94a3b8;">B.Com in Commerce & Accounting</span>
-        <span style="display: inline-block; background: #334155; color: #cbd5e1; font-size: 11px; padding: 2px 6px; border-radius: 4px; margin-left: 6px;">7.5 CGPA</span>
-      </div>
-    </div>
+### 💼 Core Experience & Focus
+* **Work Highlights:** Financial records, reconciliations, AP/AR, and reporting workflows.
+* **Research Passions:** NBFC financials, capital adequacy, sector research, and cleaning messy spreadsheets.
 
-    <!-- Experience & Domain Card -->
-    <div style="background: #1e293b; border-radius: 14px; padding: 20px; border: 1px solid #334155;">
-      <div style="font-size: 24px; margin-bottom: 10px;">💼</div>
-      <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #38bdf8;">Core Work & Research Focus</h3>
-      <p style="font-size: 13px; color: #cbd5e1; margin: 0 0 10px 0; line-height: 1.5;">Handling financial records, reconciliations, AP/AR, and reporting workflows.</p>
-      <div style="background: #0f172a; padding: 10px; border-radius: 8px; font-size: 12px; color: #a7f3d0; border-left: 3px solid #10b981;">
-        🔍 Passions: NBFC financials, capital adequacy, sector research, & clean spreadsheets.
-      </div>
-    </div>
+---
 
-    <!-- Tech Stack Pill Cloud -->
-    <div style="background: #1e293b; border-radius: 14px; padding: 20px; border: 1px solid #334155; grid-column: span 1;">
-      <div style="font-size: 24px; margin-bottom: 10px;">📈</div>
-      <h3 style="margin: 0 0 12px 0; font-size: 16px; color: #38bdf8;">Toolkit</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #0f172a; border: 1px solid #475569; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #e2e8f0;">Excel</span>
-        <span style="background: #0f172a; border: 1px solid #475569; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #e2e8f0;">Power BI</span>
-        <span style="background: #0f172a; border: 1px solid #475569; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #e2e8f0;">Python (Pandas)</span>
-        <span style="background: #0f172a; border: 1px solid #475569; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #e2e8f0;">R</span>
-        <span style="background: #0f172a; border: 1px solid #475569; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #e2e8f0;">SAP FICO</span>
-        <span style="background: #0f172a; border: 1px solid #475569; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #e2e8f0;">MySQL</span>
-      </div>
-      <p style="font-size: 11px; color: #64748b; margin-top: 12px; margin-bottom: 0;">🌱 Currently sharpening automation in Python & Power BI</p>
-    </div>
+### 📈 Technical Toolkit
+| Category | Stack / Skills |
+| :--- | :--- |
+| **Core Analytics** | `Excel` `Power BI` `Python (Pandas)` `R` |
+| **Enterprise & Data** | `SAP FICO` `MySQL` |
+| **Active Focus** | 🌱 Sharpening automation in Python & Power BI |
 
-  </div>
+---
 
-  <!-- Footer Banner: Research & Fun Fact -->
-  <div style="margin-top: 16px; background: linear-gradient(135deg, #1e1b4b, #312e81); border-radius: 14px; padding: 18px 20px; border: 1px solid #4338ca; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px;">
-    <div style="flex: 1; min-width: 250px;">
-      <span style="color: #c7d2fe; font-size: 11px; font-weight: bold; text-transform: uppercase;">📄 Published Paper</span>
-      <p style="margin: 2px 0 0 0; font-size: 13px; color: #ffffff;">Capital adequacy of India's top NBFCs — <strong>EPRA IJEBM (Vol. 12, 2025)</strong></p>
-    </div>
-    <div style="flex: 1; min-width: 250px; border-left: 2px solid #4f46e5; padding-left: 14px;">
-      <span style="color: #fef08a; font-size: 11px; font-weight: bold; text-transform: uppercase;">⚡ Fun Fact</span>
-      <p style="margin: 2px 0 0 0; font-size: 12px; color: #e0e7ff;">Studied the Pollachi Taluk handloom weaving economy — looms & spreadsheets share more than you think!</p>
-    </div>
-  </div>
-
-</div>
-</ul>
+### 📄 Publications & Insights
+* **Published Paper:** *Capital adequacy of India's top NBFCs* — **EPRA IJEBM**, Vol. 12, Issue 5 (2025)
+* ⚡ **Fun Fact:** Studied the handloom weaving economy of Pollachi Taluk — turns out spreadsheets and looms have more in common than you'd think!
 
 </td>
 </tr>
@@ -167,5 +121,3 @@
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 <br>
-
-
