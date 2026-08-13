@@ -106,17 +106,17 @@
       </ul>
     </td>
 
-    <!-- Certifications -->
-    <td width="50%" valign="top" style="background-color: #0d1117; padding: 14px; border-radius: 8px;">
-      <h4 style="color: #00d9ff; margin-top: 0;">📜 Professional Certifications</h4>
-      <ul>
-        <li><b>Master’s Diploma in Computer Applications</b> (MS Office & Tally)</li>
-        <li><b>Budgeting and Scheduling</b> (Coursera)</li>
-        <li><b>AI in Marketing</b> (Swayam-NPTEL)</li>
-        <li><b>Human Resources Management</b> (Swayam-NPTEL)</li>
-        <li><b>Hardware Troubleshooting & Network Essentials</b></li>
-      </ul>
-    </td>
+<!-- Certifications Card (Fixed & Working) -->
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+  <h4 style="color: #00d9ff; margin-top: 0; margin-bottom: 12px;">📜 Professional Certifications</h4>
+  <ul style="margin: 0; padding-left: 20px; color: #c9d1d9;">
+    <li style="margin-bottom: 8px;"><b>Master’s Diploma in Computer Applications</b> <span style="color: #8b949e;">(MS Office & Tally)</span></li>
+    <li style="margin-bottom: 8px;"><b>Budgeting and Scheduling</b> <span style="color: #8b949e;">(Coursera)</span></li>
+    <li style="margin-bottom: 8px;"><b>AI in Marketing</b> <span style="color: #8b949e;">(Swayam-NPTEL)</span></li>
+    <li style="margin-bottom: 8px;"><b>Human Resources Management</b> <span style="color: #8b949e;">(Swayam-NPTEL)</span></li>
+    <li><b>Hardware Troubleshooting & Network Essentials</b></li>
+  </ul>
+</td>
   </tr>
 </table>
 
