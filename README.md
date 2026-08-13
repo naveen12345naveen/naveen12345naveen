@@ -9,18 +9,20 @@
 
 <div align="center">
 
-  <!-- Interactive Badges with Hover Effects -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/naveenkumar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-CONNECT%20HERE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://maps.google.com/?q=Udumalpet,Coimbatore" target="_blank">
-      <img src="https://img.shields.io/badge/Location-Udumalpet%2C%20Coimbatore-00FF99?style=for-the-badge&logo=googlemaps&logoColor=000000" alt="Location" />
-    </a>
-  </p>
-
-</div>
+  <div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="background-color: #0d1117; border: 1px solid #00ff99; padding: 14px 28px; border-radius: 50px; box-shadow: 0 0 15px rgba(0, 255, 153, 0.3);">
+        <a href="https://www.linkedin.com/in/naveenkumar" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/LinkedIn-CONNECT%20HERE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://maps.google.com/?q=Udumalpet,Coimbatore" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Location-Udumalpet%2C%20Coimbatore-00FF99?style=for-the-badge&logo=googlemaps&logoColor=000000" alt="Location" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
