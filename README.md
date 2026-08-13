@@ -13,7 +13,7 @@
 <h1 align="center">Hi there, I'm NaveenKumar B 👋</h1>
 
 <h3 align="center">
-  Finance Analyst | Turning Numbers into Narratives 📊
+  Finance Analyst |  📊
 </h3>
 
 <p align="center">
@@ -51,7 +51,75 @@
 - 📄 Published researcher — my paper on capital adequacy of India's top NBFCs made it into **EPRA IJEBM, Vol. 12, Issue 5 (2025)**
 - 🌱 Currently sharpening my edge in automation with **Python (Pandas)** and dashboarding with **Power BI**
 - ⚡ Fun fact: I once studied the handloom weaving economy of Pollachi Taluk — turns out spreadsheets and looms have more in common than you'd think
+<!-- ABOUT ME -->
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Finance+%2B+Analytics+%2B+Automation;Better+Data+%E2%86%92+Better+Insights+%E2%86%92+Better+Decisions" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+<h2>## 🧭 About Me</h2>
+
+<blockquote>
+
+<b>Finance + Analytics + Automation = Better Decisions</b>
+
+</blockquote>
+
+<ul>
+
+<li>🎓 I hold an <b>MBA in Finance & Business Analytics</b> (7.9 CGPA) and a <b>B.Com in Commerce & Accounting</b> (7.5 CGPA)</li>
+
+<li>💼 Currently working as a <b>Junior Analyst</b> at <b>Zold UDP Group of Companies</b>, handling financial records, reconciliations, AP/AR, and reporting workflows</li>
+
+<li>🔍 I like digging into <b>NBFC financials, capital adequacy, and sector research</b> as much as I like cleaning up a messy spreadsheet</li>
+
+<li>📈 My toolkit spans <b>Excel, Power BI, Python, R, SAP FICO, MySQL</b> — from raw data to dashboards to decisions</li>
+
+<li>📄 Published researcher — my paper on capital adequacy of India's top NBFCs made it into <b>EPRA IJEBM, Vol. 12, Issue 5 (2025)</b></li>
+
+<li>🌱 Currently sharpening my edge in automation with <b>Python (Pandas)</b> and dashboarding with <b>Power BI</b></li>
+
+<li>⚡ Fun fact: I once studied the handloom weaving economy of Pollachi Taluk — turns out spreadsheets and looms have more in common than you'd think</li>
+
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FINANCE-00FF99?style=for-the-badge&labelColor=071017" />
+<img src="https://img.shields.io/badge/ANALYTICS-00D9FF?style=for-the-badge&labelColor=071017" />
+<img src="https://img.shields.io/badge/AUTOMATION-7C3AED?style=for-the-badge&labelColor=071017" />
+<img src="https://img.shields.io/badge/RESEARCH-FFB000?style=for-the-badge&labelColor=071017" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│  $ finance_analytics --status                           │
+│                                                         │
+│  ● FINANCE       ████████████████████  ACTIVE          │
+│  ● ANALYTICS     ██████████████████░░  ACTIVE          │
+│  ● AUTOMATION    ████████████████░░░░  BUILDING        │
+│  ● RESEARCH      ████████████████████  PUBLISHED       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 <br>
 
 > *"Nothing will work unless you do."*
