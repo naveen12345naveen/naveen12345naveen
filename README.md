@@ -29,31 +29,31 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">💼 Professional Overview</h3>
-      <p>Junior Analyst at <b>Zold UDP Group of Companies</b> (Aug 2025 – Present)[cite: 1].</p>
+      <p>Junior Analyst at <b>Zold UDP Group of Companies</b> (Aug 2025 – Present).</p>
       <ul>
-        <li>Maintained precise financial records & regulatory compliance[cite: 1].</li>
-        <li>Accelerated monthly closing cycles via account reconciliations & journal entries[cite: 1].</li>
-        <li>Managed AP/AR operations to optimize cash flow and cut processing delays[cite: 1].</li>
-        <li>Partnered with accounting leadership to refine workflows & boost efficiency[cite: 1].</li>
+        <li>Maintained precise financial records & regulatory compliance.</li>
+        <li>Accelerated monthly closing cycles via account reconciliations & journal entries.</li>
+        <li>Managed AP/AR operations to optimize cash flow and cut processing delays.</li>
+        <li>Partnered with accounting leadership to refine workflows & boost efficiency.</li>
       </ul>
       <br>
       <blockquote>
-        ⚡ <i>"Nothing will work unless you do"</i>[cite: 1]
+        ⚡ <i>"Nothing will work unless you do"</i>
       </blockquote>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🎓 Academic Credentials</h3>
       <ul>
         <li>
-          <b>MBA in Finance & Business Analytics</b>[cite: 1]<br>
-          <i>Sakthi Institute of Info & Management Studies (2025)</i>[cite: 1]<br>
-          <code>CGPA: 7.9</code>[cite: 1]
+          <b>MBA in Finance & Business Analytics</b><br>
+          <i>Sakthi Institute of Info & Management Studies (2025)</i><br>
+          <code>CGPA: 7.9</code>
         </li>
         <br>
         <li>
-          <b>B.Com in Commerce & Accounting</b>[cite: 1]<br>
-          <i>NGM College, Pollachi (2023)</i>[cite: 1]<br>
-          <code>CGPA: 7.5</code>[cite: 1]
+          <b>B.Com in Commerce & Accounting</b><br>
+          <i>NGM College, Pollachi (2023)</i><br>
+          <code>CGPA: 7.5</code>
         </li>
       </ul>
     </td>
@@ -95,13 +95,13 @@
       <h4 style="color: #00ff99; margin-top: 0;">📊 Research & Publications</h4>
       <ul>
         <li>
-          <b>Top 5 Indian NBFCs Study (2025)</b>[cite: 1]<br>
-          Published in <i>EPRA IJEBM (Vol. 12, Issue 5, May 2025)</i>[cite: 1]. Ratio & trend analysis on profitability, liquidity, and capital adequacy[cite: 1].
+          <b>Top 5 Indian NBFCs Study (2025)</b><br>
+          Published in <i>EPRA IJEBM (Vol. 12, Issue 5, May 2025)</i>. Ratio & trend analysis on profitability, liquidity, and capital adequacy.
         </li>
         <br>
         <li>
-          <b>Pollachi Handloom Economy Study (2023)</b>[cite: 1]<br>
-          Sector analysis on credit access, market linkages, and structural challenges[cite: 1].
+          <b>Pollachi Handloom Economy Study (2023)</b><br>
+          Sector analysis on credit access, market linkages, and structural challenges.
         </li>
       </ul>
     </td>
@@ -110,11 +110,11 @@
     <td width="50%" valign="top" style="background-color: #0d1117; padding: 14px; border-radius: 8px;">
       <h4 style="color: #00d9ff; margin-top: 0;">📜 Professional Certifications</h4>
       <ul>
-        <li><b>Master’s Diploma in Computer Applications</b> (MS Office & Tally)[cite: 1]</li>
-        <li><b>Budgeting and Scheduling</b> (Coursera)[cite: 1]</li>
-        <li><b>AI in Marketing</b> (Swayam-NPTEL)[cite: 1]</li>
-        <li><b>Human Resources Management</b> (Swayam-NPTEL)[cite: 1]</li>
-        <li><b>Hardware Troubleshooting & Network Essentials</b>[cite: 1]</li>
+        <li><b>Master’s Diploma in Computer Applications</b> (MS Office & Tally)</li>
+        <li><b>Budgeting and Scheduling</b> (Coursera)</li>
+        <li><b>AI in Marketing</b> (Swayam-NPTEL)</li>
+        <li><b>Human Resources Management</b> (Swayam-NPTEL)</li>
+        <li><b>Hardware Troubleshooting & Network Essentials</b></li>
       </ul>
     </td>
   </tr>
@@ -127,9 +127,9 @@
   <summary><b>📌 Click to view Conference Papers & Internships</b></summary>
   <br>
   <ul>
-    <li><b>Internship Exposure:</b> SRG Apparels Pvt. Ltd., Udumalpet — Focused on team management, production planning, and quality assurance[cite: 1].</li>
-    <li><b>G20 Conference Presentation:</b> Delivered talk at the Two-day International Conference on G20 and Indian Management Practices (SIIMS)[cite: 1].</li>
-    <li><b>National Education Policy (NEP 2022):</b> Presented research paper on higher education opportunities at NGM College[cite: 1].</li>
+    <li><b>Internship Exposure:</b> SRG Apparels Pvt. Ltd., Udumalpet — Focused on team management, production planning, and quality assurance.</li>
+    <li><b>G20 Conference Presentation:</b> Delivered talk at the Two-day International Conference on G20 and Indian Management Practices (SIIMS).</li>
+    <li><b>National Education Policy (NEP 2022):</b> Presented research paper on higher education opportunities at NGM College.</li>
   </ul>
 </details>
 
