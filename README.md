@@ -17,7 +17,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveenkumar&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=naveenkumar&label=PROFILE+VIEWS&color=07&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -64,20 +64,49 @@
 
 <ul>
 
-<li>🎓 I hold an <b>MBA in Finance & Business Analytics</b> (7.9 CGPA) and a <b>B.Com in Commerce & Accounting</b> (7.5 CGPA)</li>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 750px; margin: 0 auto; background: #121212; padding: 30px; border-radius: 16px; color: #e0e0e0;">
+  
+  <div style="display: flex; gap: 16px; margin-bottom: 16px;">
+    <!-- Education Card -->
+    <div style="flex: 1; background: #1e1e1e; padding: 20px; border-radius: 12px; border-left: 4px solid #4f46e5;">
+      <span style="font-size: 20px;">🎓</span>
+      <h4 style="margin: 6px 0 4px 0; color: #fff;">Academic Background</h4>
+      <p style="font-size: 13px; color: #a0a0a0; margin: 0;"><b>MBA (Finance & Analytics)</b> — 7.9 CGPA<br><b>B.Com (Commerce & Acct)</b> — 7.5 CGPA</p>
+    </div>
 
-<li>💼 Currently working as a <b>Junior Analyst</b> at <b>Zold UDP Group of Companies</b>, handling financial records, reconciliations, AP/AR, and reporting workflows</li>
+    <!-- Current Role -->
+    <div style="flex: 1; background: #1e1e1e; padding: 20px; border-radius: 12px; border-left: 4px solid #10b981;">
+      <span style="font-size: 20px;">💼</span>
+      <h4 style="margin: 6px 0 4px 0; color: #fff;">Junior Analyst</h4>
+      <p style="font-size: 13px; color: #a0a0a0; margin: 0;"><b>Zold UDP Group</b><br>Financial records, reconciliations, AP/AR, and reporting workflows.</p>
+    </div>
+  </div>
 
-<li>🔍 I like digging into <b>NBFC financials, capital adequacy, and sector research</b> as much as I like cleaning up a messy spreadsheet</li>
+  <!-- Focus & Skills -->
+  <div style="background: #1e1e1e; padding: 20px; border-radius: 12px; margin-bottom: 16px; border-left: 4px solid #06b6d4;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; color: #fff;">🔍 Focus Areas & Toolkit</h4>
+      <span style="font-size: 11px; background: #06b6d422; color: #22d3ee; padding: 4px 8px; border-radius: 6px;">Growing in Python & Power BI</span>
+    </div>
+    <p style="font-size: 13px; color: #b3b3b3; margin-top: 0;">NBFC financials, capital adequacy, sector research & messy spreadsheet cleanups.</p>
+    <div style="display: flex; gap: 6px; font-size: 12px; font-weight: 600; color: #22d3ee;">
+      <span>Excel</span> • <span>Power BI</span> • <span>Python (Pandas)</span> • <span>R</span> • <span>SAP FICO</span> • <span>MySQL</span>
+    </div>
+  </div>
 
-<li>📈 My toolkit spans <b>Excel, Power BI, Python, R, SAP FICO, MySQL</b> — from raw data to dashboards to decisions</li>
+  <!-- Publications & Trivia -->
+  <div style="display: flex; gap: 16px;">
+    <div style="flex: 1; background: #1e1e1e; padding: 16px; border-radius: 12px; border-left: 4px solid #f59e0b; font-size: 12px;">
+      <b style="color: #f59e0b;">📄 Published Researcher</b><br>
+      <span style="color: #a0a0a0;">Paper on India's top NBFC capital adequacy in <i>EPRA IJEBM (Vol. 12, Issue 5, 2025)</i>.</span>
+    </div>
+    <div style="flex: 1; background: #1e1e1e; padding: 16px; border-radius: 12px; border-left: 4px solid #ec4899; font-size: 12px;">
+      <b style="color: #ec4899;">⚡ Fun Fact</b><br>
+      <span style="color: #a0a0a0;">Studied Pollachi's handloom weaving economy. Spreadsheets and looms share core logic!</span>
+    </div>
+  </div>
 
-<li>📄 Published researcher — my paper on capital adequacy of India's top NBFCs made it into <b>EPRA IJEBM, Vol. 12, Issue 5 (2025)</b></li>
-
-<li>🌱 Currently sharpening my edge in automation with <b>Python (Pandas)</b> and dashboarding with <b>Power BI</b></li>
-
-<li>⚡ Fun fact: I once studied the handloom weaving economy of Pollachi Taluk — turns out spreadsheets and looms have more in common than you'd think</li>
-
+</div>
 </ul>
 
 </td>
