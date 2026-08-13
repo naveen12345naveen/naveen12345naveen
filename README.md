@@ -127,13 +127,38 @@
 
 <!-- ===================== EXPANDABLE ARCHIVE ===================== -->
 <details>
-  <summary><b>📌 Click to view Conference Papers & Internships</b></summary>
+  <summary style="cursor: pointer; font-size: 16px; font-weight: bold; color: #00ff99; padding: 8px 0;">
+    📌 <b>Click to expand Conference Papers & Internships</b>
+  </summary>
   <br>
-  <ul>
-    <li><b>Internship Exposure:</b> SRG Apparels Pvt. Ltd., Udumalpet — Focused on team management, production planning, and quality assurance.</li>
-    <li><b>G20 Conference Presentation:</b> Delivered talk at the Two-day International Conference on G20 and Indian Management Practices (SIIMS).</li>
-    <li><b>National Education Policy (NEP 2022):</b> Presented research paper on higher education opportunities at NGM College.</li>
-  </ul>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <!-- Internship Card -->
+    <tr>
+      <td style="background-color: #0d1117; border-left: 4px solid #00ff99; padding: 12px 16px; border-radius: 0 8px 8px 0; margin-bottom: 10px;">
+        <span style="background-color: #00ff9922; color: #00ff99; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">INTERNSHIP</span>
+        <h4 style="margin: 6px 0 4px 0; color: #ffffff;">SRG Apparels Pvt. Ltd., Udumalpet</h4>
+        <p style="margin: 0; color: #8b949e; font-size: 13px;">Gained core exposure to team management, production planning, and quality assurance workflows.</p>
+      </td>
+    </tr>
+    <tr height="10"></tr>
+    <!-- G20 Card -->
+    <tr>
+      <td style="background-color: #0d1117; border-left: 4px solid #00d9ff; padding: 12px 16px; border-radius: 0 8px 8px 0; margin-bottom: 10px;">
+        <span style="background-color: #00d9ff22; color: #00d9ff; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">INTERNATIONAL CONFERENCE</span>
+        <h4 style="margin: 6px 0 4px 0; color: #ffffff;">G20 & Indian Management Practices</h4>
+        <p style="margin: 0; color: #8b949e; font-size: 13px;">Delivered key presentation at Sakthi Institute of Information and Management Studies (SIIMS).</p>
+      </td>
+    </tr>
+    <tr height="10"></tr>
+    <!-- NEP Card -->
+    <tr>
+      <td style="background-color: #0d1117; border-left: 4px solid #a855f7; padding: 12px 16px; border-radius: 0 8px 8px 0;">
+        <span style="background-color: #a855f722; color: #a855f7; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold;">PAPER PRESENTATION</span>
+        <h4 style="margin: 6px 0 4px 0; color: #ffffff;">National Education Policy (NEP 2022)</h4>
+        <p style="margin: 0; color: #8b949e; font-size: 13px;">Presented paper highlighting challenges and strategic opportunities for higher education at NGM College.</p>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <br>
