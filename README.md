@@ -7,19 +7,20 @@
   <!-- Animated Wave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00d9ff,100:0066ff&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-  <!-- Social & Contact Badges -->
+<div align="center">
+
+  <!-- Interactive Badges with Hover Effects -->
   <p align="center">
     <a href="https://www.linkedin.com/in/naveenkumar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-CONNECT%20HERE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:naveenbalakrishnan146@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    &nbsp;&nbsp;
+    <a href="https://maps.google.com/?q=Udumalpet,Coimbatore" target="_blank">
+      <img src="https://img.shields.io/badge/Location-Udumalpet%2C%20Coimbatore-00FF99?style=for-the-badge&logo=googlemaps&logoColor=000000" alt="Location" />
     </a>
-    <img src="https://img.shields.io/badge/Phone-6369311629-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Location-Udumalpet%2C%20Coimbatore-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-    <img src="https://komarev.com/ghpvc/?username=naveenkumar&label=VIEWS&color=00ff99&style=for-the-badge" />
   </p>
 
+</div>
 </div>
 
 <br>
