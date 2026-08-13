@@ -104,20 +104,25 @@
 <img src="https://img.shields.io/badge/AUTOMATION-7C3AED?style=for-the-badge&labelColor=071017" />
 <img src="https://img.shields.io/badge/RESEARCH-FFB000?style=for-the-badge&labelColor=071017" />
 
-</div>
-
-<br>
-
-<div align="center">
-
 ```text
-┌─────────────────────────────────────────────────────────┐
-│  $ finance_analytics --status                           │
-│                                                         │
-│  ● FINANCE       ████████████████████  ACTIVE          │
-│  ● ANALYTICS     ██████████████████░░  ACTIVE          │
-│  ● AUTOMATION    ████████████████░░░░  BUILDING        │
-│  ● RESEARCH      ████████████████████  PUBLISHED       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-<br>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  JUNIOR ANALYST // PORTFOLIO EXECUTION ENGINE                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  [USER_DATA]                                                                 ║
+║  ├─ ROLE ..... Junior Analyst @ Zold UDP Group of Companies                  ║
+║  ├─ DEGREES .. MBA (Fin & Analytics) [7.9 CGPA] | B.Com (Acct) [7.5 CGPA]    ║
+║  └─ FOCUS .... Financial Records | Reconciliations | AP/AR | Workflows       ║
+║                                                                              ║
+║  [STACK_TELEMETRY]                                                           ║
+║  ├── Core Data ... [Excel] [Power BI] [Python/Pandas] [R] [MySQL]            ║
+║  ├── Enterprise .. [SAP FICO]                                                ║
+║  └── Current Pipeline: "Sharpening Python automation & Power BI dashboards"  ║
+║                                                                              ║
+║  [RESEARCH_LOG]                                                              ║
+║  ├─ PUBLISHED: Capital Adequacy of India's Top NBFCs                         ║
+║  │  └─ Journal: EPRA IJEBM, Vol. 12, Issue 5 (2025)                          ║
+║  └─ FIELDWORK: Pollachi Taluk Handloom Weaving Economy                       ║
+║     └─ Note: Spreadsheets and looms share core logical patterns.             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
