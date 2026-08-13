@@ -1,16 +1,50 @@
-<h1 align="center">Hi there, I'm NaveenKumar B 👋</h1>
-<h3 align="center">Finance Analyst | Turning Numbers into Narratives 📊</h3>
+<div align="center">
 
-<p align="center">
+  <!-- Custom Animated Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF99&center=true&vcenter=true&width=700&lines=%E2%9A%A1+NaveenKumar+B;%F0%9F%93%8A+Financial+Analyst+%2B+Data+Storyteller;%F0%9F%A7%A0+Turning+Complex+Metrics+into+Strategy;%F0%9F%8F%85+Published+NBFC+Researcher" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p align="center">
+    <code><b>FINANCIAL MODELING</b></code> • 
+    <code><b>BUSINESS ANALYTICS</b></code> • 
+    <code><b>NBFC & CAPITAL ADEQUACY</b></code>
+  </p>
+
+  <!-- Neo-Glass Badges -->
   <a href="https://www.linkedin.com/in/naveenkumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:naveenbalakrishnan146@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Udumalpet%2C%20Coimbatore-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20IN-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
+</div>
+
+<br/>
+
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ⚡ Terminal Dashboard
+
+```bash
+naveen@finance-terminal:~$ info --user "NaveenKumar B"
+
+┌── [PROFILE STATUS]
+│ ├─ Role        : Junior Analyst @ Zold UDP Group of Companies
+│ ├─ Education   : MBA (Finance & Analytics - 7.9 CGPA) | B.Com (7.5 CGPA)
+│ ├─ Research    : Published in EPRA IJEBM (Vol. 12, Issue 5, 2025)
+│ └─ Focus       : Financial Reconciliation, AP/AR, Automation & NBFC Ratios
+│
+└── [CURRENT SPRINT]
+  ├─ 🐍 Automating financial workflows with Python (Pandas)
+  └─ 📊 Building executive-level dashboards in Power BI
 ---
 
 ### 🧭 About Me
@@ -83,14 +117,6 @@ Intern @ SRG Apparels Pvt. Ltd.                       1 Month
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true" height="165"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
