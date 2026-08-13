@@ -1,282 +1,139 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- ===================== HEADER ===================== -->
 
-    <title>Naveen Kumar | Finance & Analytics</title>
+<div align="center">
 
-    <link rel="stylesheet" href="style.css">
-</head>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Hi%2C+I'm+NaveenKumar+B;%F0%9F%93%8A+Finance+Analyst;%F0%9F%A7%A0+Turning+Numbers+into+Narratives;%F0%9F%90%8D+Python+%7C+Pandas+%7C+Power+BI;%F0%9F%8F%85+Published+NBFC+Researcher" alt="Typing SVG" />
 
-<body>
+<br>
 
-<!-- NAVBAR -->
-<nav>
-    <h2>NAVEEN<span>.FINANCE</span></h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00d9ff,100:0066ff&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-    <div>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-    </div>
-</nav>
+</div>
 
+<h1 align="center">Hi there, I'm NaveenKumar B 👋</h1>
 
-<!-- HERO -->
-<section class="hero">
+<h3 align="center">
+  Finance Analyst | Turning Numbers into Narratives 📊
+</h3>
 
-    <div class="hero-text">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenkumar&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" />
+</p>
 
-        <p class="terminal">
-            naveen@finance:~$ whoami
-        </p>
+<p align="center">
 
-        <h1>
-            Hi, I'm <span>Naveen Kumar</span>
-        </h1>
+<a href="https://www.linkedin.com/in/naveenkumar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-        <h3>
-            Finance Analyst | Business Analytics | Automation
-        </h3>
+<a href="mailto:naveenbalakrishnan146@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-        <p>
-            I transform financial data into meaningful insights,
-            dashboards and automated workflows.
-        </p>
+<img src="https://img.shields.io/badge/Udumalpet%2C%20Coimbatore-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-        <a class="button" href="#projects">
-            View My Work →
-        </a>
+</p>
 
-    </div>
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-    <div class="profile">
+---
 
-        <div class="avatar">NK</div>
+## 🧭 About Me
 
-        <h2>Naveen Kumar</h2>
+> **Finance + Analytics + Automation = Better Decisions**
 
-        <p>Junior Analyst</p>
+- 🎓 I hold an **MBA in Finance & Business Analytics** (7.9 CGPA) and a **B.Com in Commerce & Accounting** (7.5 CGPA)
+- 💼 Currently working as a **Junior Analyst** at **Zold UDP Group of Companies**, handling financial records, reconciliations, AP/AR, and reporting workflows
+- 🔍 I like digging into **NBFC financials, capital adequacy, and sector research** as much as I like cleaning up a messy spreadsheet
+- 📈 My toolkit spans **Excel, Power BI, Python, R, SAP FICO, MySQL** — from raw data to dashboards to decisions
+- 📄 Published researcher — my paper on capital adequacy of India's top NBFCs made it into **EPRA IJEBM, Vol. 12, Issue 5 (2025)**
+- 🌱 Currently sharpening my edge in automation with **Python (Pandas)** and dashboarding with **Power BI**
+- ⚡ Fun fact: I once studied the handloom weaving economy of Pollachi Taluk — turns out spreadsheets and looms have more in common than you'd think
 
-        <small>
-            Finance • Analytics • Python • Power BI
-        </small>
+<br>
 
-        <div class="status">
-            ● Currently Working
-        </div>
+> *"Nothing will work unless you do."*
 
-    </div>
+---
 
-</section>
+## 📊 Analyst Dashboard
 
+<p align="center">
 
-<!-- ABOUT -->
-<section id="about">
+<img src="https://img.shields.io/badge/MBA%20CGPA-7.9-00FF99?style=for-the-badge&labelColor=071017" />
 
-    <h2>About <span>Me</span></h2>
+<img src="https://img.shields.io/badge/B.Com%20CGPA-7.5-00D9FF?style=for-the-badge&labelColor=071017" />
 
-    <p class="intro">
-        MBA in Finance & Business Analytics with experience in
-        financial reconciliation, AP/AR, reporting and financial
-        analysis.
-    </p>
+<img src="https://img.shields.io/badge/Research-2025-00FF99?style=for-the-badge&labelColor=071017" />
 
-    <div class="stats">
+<img src="https://img.shields.io/badge/NBFCs%20Studied-5-00D9FF?style=for-the-badge&labelColor=071017" />
 
-        <div>
-            <strong>7.9</strong>
-            <small>MBA CGPA</small>
-        </div>
+</p>
 
-        <div>
-            <strong>2025</strong>
-            <small>Research Published</small>
-        </div>
+---
 
-        <div>
-            <strong>5</strong>
-            <small>NBFCs Researched</small>
-        </div>
+## 🛠️ Tech Stack & Tools
 
-        <div>
-            <strong>8+</strong>
-            <small>Tools & Technologies</small>
-        </div>
+### 📊 Analytics & Programming
 
-    </div>
+<p>
 
-</section>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-<!-- SKILLS -->
-<section id="skills">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-    <h2>My <span>Skills</span></h2>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
-    <div class="skills">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-        <div>Excel</div>
-        <div>Power BI</div>
-        <div>Python</div>
-        <div>Pandas</div>
-        <div>SQL / MySQL</div>
-        <div>SAP FICO</div>
-        <div>Financial Modeling</div>
-        <div>Financial Analysis</div>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-    </div>
+</p>
 
-</section>
+### 💰 Finance & Accounting
 
+<p>
 
-<!-- PROJECTS -->
-<section id="projects">
+<img src="https://img.shields.io/badge/SAP_FICO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 
-    <h2>Featured <span>Projects</span></h2>
+<img src="https://img.shields.io/badge/Tally_Prime-E4405F?style=for-the-badge" />
 
-    <div class="projects">
+<img src="https://img.shields.io/badge/GST_Compliance-6C63FF?style=for-the-badge" />
 
-        <div class="card">
+<img src="https://img.shields.io/badge/TDS_%26_Income_Tax-FF6F00?style=for-the-badge" />
 
-            <small>01 / AUTOMATION</small>
+<img src="https://img.shields.io/badge/Financial_Modeling-2E8B57?style=for-the-badge" />
 
-            <h3>Financial Reconciliation</h3>
+</p>
 
-            <p>
-                Python and Pandas based workflow for automating
-                financial reconciliation and identifying mismatches.
-            </p>
+---
 
-            <b>Python • Pandas • Excel</b>
+## 💼 Where I've Worked
 
-        </div>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                  CAREER TIMELINE                            │
+└─────────────────────────────────────────────────────────────┘
 
+🚀 Junior Analyst @ Zold UDP Group of Companies
+   Aug 2025 – Present
 
-        <div class="card">
+   ├── Maintained accurate financial records for full
+   │   regulatory compliance
+   │
+   ├── Streamlined monthly closing cycles via precise
+   │   reconciliations
+   │
+   ├── Managed AP/AR operations to optimize cash flow
+   │
+   └── Partnered with senior leadership to cut reporting errors
 
-            <small>02 / RESEARCH</small>
 
-            <h3>NBFC Financial Analysis</h3>
+📦 Intern @ SRG Apparels Pvt. Ltd.
+   1 Month
 
-            <p>
-                Analysis of capital adequacy, profitability,
-                liquidity and growth of India's leading NBFCs.
-            </p>
-
-            <b>Finance • Ratios • Research</b>
-
-        </div>
-
-
-        <div class="card">
-
-            <small>03 / BUSINESS INTELLIGENCE</small>
-
-            <h3>Finance Dashboard</h3>
-
-            <p>
-                Executive-level dashboard for monitoring financial
-                KPIs and transforming raw data into insights.
-            </p>
-
-            <b>Power BI • DAX • KPI</b>
-
-        </div>
-
-
-        <div class="card">
-
-            <small>04 / ECONOMIC RESEARCH</small>
-
-            <h3>Pollachi Handloom Study</h3>
-
-            <p>
-                Research on demand, marketing and credit challenges
-                faced by handloom weavers.
-            </p>
-
-            <b>Research • Survey • Analytics</b>
-
-        </div>
-
-    </div>
-
-</section>
-
-
-<!-- EXPERIENCE -->
-<section>
-
-    <h2>Career <span>Journey</span></h2>
-
-    <div class="timeline">
-
-        <div>
-            <strong>Aug 2025 — Present</strong>
-            <h3>Junior Analyst — Zold UDP Group</h3>
-            <p>
-                Financial records, reconciliation, AP/AR and
-                management reporting.
-            </p>
-        </div>
-
-        <div>
-            <strong>2025</strong>
-            <h3>Published NBFC Research</h3>
-            <p>
-                Research published in EPRA IJEBM.
-            </p>
-        </div>
-
-        <div>
-            <strong>MBA — Finance & Business Analytics</strong>
-            <h3>7.9 CGPA</h3>
-        </div>
-
-    </div>
-
-</section>
-
-
-<!-- CONTACT -->
-<section id="contact" class="contact">
-
-    <h2>Let's <span>Connect</span></h2>
-
-    <p>
-        Interested in finance, analytics, automation or research?
-    </p>
-
-    <a
-        class="button"
-        href="mailto:naveenbalakrishnan146@gmail.com">
-        Email Me
-    </a>
-
-    <a
-        class="button linkedin"
-        href="https://www.linkedin.com/in/naveenkumar"
-        target="_blank">
-        LinkedIn
-    </a>
-
-</section>
-
-
-<footer>
-
-    <p>
-        © 2026 <strong>Naveen Kumar</strong>
-    </p>
-
-    <p>
-        Finance • Analytics • Automation
-    </p>
-
-</footer>
-
-</body>
-</html>
+   └── Team management, production planning & quality assurance
