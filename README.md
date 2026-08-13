@@ -40,17 +40,6 @@
 
 ---
 
-## 🧭 About Me
-
-> **Finance + Analytics + Automation = Better Decisions**
-
-- 🎓 I hold an **MBA in Finance & Business Analytics** (7.9 CGPA) and a **B.Com in Commerce & Accounting** (7.5 CGPA)
-- 💼 Currently working as a **Junior Analyst** at **Zold UDP Group of Companies**, handling financial records, reconciliations, AP/AR, and reporting workflows
-- 🔍 I like digging into **NBFC financials, capital adequacy, and sector research** as much as I like cleaning up a messy spreadsheet
-- 📈 My toolkit spans **Excel, Power BI, Python, R, SAP FICO, MySQL** — from raw data to dashboards to decisions
-- 📄 Published researcher — my paper on capital adequacy of India's top NBFCs made it into **EPRA IJEBM, Vol. 12, Issue 5 (2025)**
-- 🌱 Currently sharpening my edge in automation with **Python (Pandas)** and dashboarding with **Power BI**
-- ⚡ Fun fact: I once studied the handloom weaving economy of Pollachi Taluk — turns out spreadsheets and looms have more in common than you'd think
 <!-- ABOUT ME -->
 
 <div align="center">
@@ -122,86 +111,141 @@
 └─────────────────────────────────────────────────────────┘
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ⚡ NEON FINANCE HUD                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,35:00d9ff,70:6366f1,100:8b5cf6&height=140&section=header&text=FINANCE%20%7C%20ANALYTICS%20%7C%20AUTOMATION&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00FF9D&center=true&vCenter=true&width=750&lines=%5B+ANALYST+MODE%3A+ONLINE+%5D;%5B+DATA+%E2%86%92+INSIGHT+%E2%86%92+DECISION+%5D;%5B+FINANCIAL+INTELLIGENCE+SYSTEM+%5D" />
+
+</div>
+
+<br>
+
+<!-- LIGHTING BAR -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00FF9D?style=flat-square&labelColor=071017" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       QUOTE                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
 > *"Nothing will work unless you do."*
 
----
+</td>
+</tr>
+</table>
 
-## 📊 Analyst Dashboard
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://img.shields.io/badge/MBA%20CGPA-7.9-00FF99?style=for-the-badge&labelColor=071017" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ANALYST DASHBOARD                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/B.Com%20CGPA-7.5-00D9FF?style=for-the-badge&labelColor=071017" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/Research-2025-00FF99?style=for-the-badge&labelColor=071017" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=%3E%3E+ANALYST+DASHBOARD;%3E%3E+LIVE+METRICS;%3E%3E+FINANCIAL+INTELLIGENCE" />
 
-<img src="https://img.shields.io/badge/NBFCs%20Studied-5-00D9FF?style=for-the-badge&labelColor=071017" />
+</div>
 
-</p>
+<br>
 
----
+<div align="center">
 
-## 🛠️ Tech Stack & Tools
+<table>
+<tr>
 
-### 📊 Analytics & Programming
+<td align="center">
 
-<p>
+<img src="https://img.shields.io/badge/MBA%20CGPA-7.9-00FF9D?style=for-the-badge&labelColor=050B10"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<br>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<sub>ACADEMIC PERFORMANCE</sub>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</td>
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<td align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Com%20CGPA-7.5-00D9FF?style=for-the-badge&labelColor=050B10"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<br>
 
-</p>
+<sub>COMMERCE & ACCOUNTING</sub>
 
-### 💰 Finance & Accounting
+</td>
 
-<p>
+</tr>
 
-<img src="https://img.shields.io/badge/SAP_FICO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+<tr>
 
-<img src="https://img.shields.io/badge/Tally_Prime-E4405F?style=for-the-badge" />
+<td align="center">
 
-<img src="https://img.shields.io/badge/GST_Compliance-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RESEARCH-2025-8B5CF6?style=for-the-badge&labelColor=050B10"/>
 
-<img src="https://img.shields.io/badge/TDS_%26_Income_Tax-FF6F00?style=for-the-badge" />
+<br>
 
-<img src="https://img.shields.io/badge/Financial_Modeling-2E8B57?style=for-the-badge" />
+<sub>PUBLISHED RESEARCH</sub>
 
-</p>
+</td>
 
----
+<td align="center">
 
-## 💼 Where I've Worked
+<img src="https://img.shields.io/badge/NBFCs%20STUDIED-5-00FF9D?style=for-the-badge&labelColor=050B10"/>
+
+<br>
+
+<sub>FINANCIAL RESEARCH</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<!-- HUD PANEL -->
+
+<div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                  CAREER TIMELINE                            │
-└─────────────────────────────────────────────────────────────┘
-
-🚀 Junior Analyst @ Zold UDP Group of Companies
-   Aug 2025 – Present
-
-   ├── Maintained accurate financial records for full
-   │   regulatory compliance
-   │
-   ├── Streamlined monthly closing cycles via precise
-   │   reconciliations
-   │
-   ├── Managed AP/AR operations to optimize cash flow
-   │
-   └── Partnered with senior leadership to cut reporting errors
-
-
-📦 Intern @ SRG Apparels Pvt. Ltd.
-   1 Month
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│       ◉ FINANCIAL ANALYTICS CONTROL CENTER              │
+│                                                          │
+│       ──────────────────────────────────────────────     │
+│                                                          │
+│       MBA CGPA             7.9        █████████░  79%    │
+│       B.COM CGPA           7.5        ████████░░  75%    │
+│       RESEARCH             2025       ● PUBLISHED        │
+│       NBFC ANALYSIS        05         ● COMPLETED        │
+│                                                          │
+│       SYSTEM STATUS       ● ONLINE                       │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 
    └── Team management, production planning & quality assurance
